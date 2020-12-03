@@ -31,11 +31,13 @@ This is an interractive document scanner.
 
 
 - In the entire procedure, to reset changes, press 'c', else press 'r' to proceed.
-![7](images/IMG7.JPG)
 
 
 - Finally the original scan and B&W scan are produced and displayed.
-![8](images/IMG8.JPG)
+
+<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Document-Scanner-using-OpenCV/blob/master/images/IMG7.JPG" />
+<img width="45%" src="https://github.com/Sudarshana2000/Document-Scanner-using-OpenCV/blob/master/images/IMG8.JPG" />
+</div>
 
 
 - If the user is satisfied and wishes to store the results, go as per instructions provided and store the result(s) in the provided path.
