@@ -7,7 +7,7 @@ This is an interractive document scanner.
 
 
 - The user needs to provide the image.
-![1](images/IMG1.JPG)
+![1](images/IMG1.jpg)
 
 
 - All possible edges in the image will be determined using cv2.HoughLines().
@@ -23,11 +23,11 @@ This is an interractive document scanner.
 
 
 - Out of all possible quadrilaterals, the one with the largest area is chosen.
-![5](images/IMG5.jpg)
+![5](images/IMG5.JPG)
 
 
 - The predicted quadrilateral is displayed, which the user can modify using drag-and-drop of corner points.
-![6](images/IMG6.GIF)
+![6](images/IMG6.gif)
 
 
 - In the entire procedure, to reset changes, press 'c', else press 'r' to proceed.
