@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 import mouse_click_event
+import argparse
 
 
 # store details of rectangle corner-points at every stage of evaluation
